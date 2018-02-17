@@ -1,0 +1,13 @@
+{
+  "orgName": "Illumina",
+  "country": "US",
+  "sourceOrg": "00D1N000002DojmUAC",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  },
+  "hasSampleData": false,
+  "adminEmail": "tnewman@illumina.com"
+}
